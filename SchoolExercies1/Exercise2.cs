@@ -8,12 +8,10 @@ namespace SchoolExercies1
 {
     internal class Exercise2
     {
-        static void Input()
+        public string exercise2()
         {
-            int nmberToBeChecked = int.Parse(Console.ReadLine());
-        }
-        public string exercise2(int numberToBeChecked)
-        {
+            int numberToBeChecked = int.Parse(Console.ReadLine());
+
             if (numberToBeChecked == 0)
                 return $"number {numberToBeChecked} is zero";
             else if (numberToBeChecked < 0)

@@ -8,7 +8,7 @@ namespace SchoolExercies1
 {
     internal class Exercise_1_2
     {
-        public void exercise1_2()
+        public static void exercise1_2()
         {
 
         }

@@ -8,7 +8,7 @@ namespace SchoolExercies1
 {
     internal class Exercise_1_1
     {
-        public void layerOne() 
+        public static void layerOne() 
         {
             Console.WriteLine("cash receipt \n----------------");
         }
@@ -20,11 +20,11 @@ namespace SchoolExercies1
         {
             Console.WriteLine("---------------- \ncash receipt ");
         }
-        public void exercise1_1()
+        public static void exercise1_1()
         {
-            Console.WriteLine(layerOne);
-            Console.WriteLine(layerSecond);
-            Console.WriteLine(layerThird);
+            Console.WriteLine(layerOne());
+            Console.WriteLine(layerSecond());
+            Console.WriteLine(layerThird());
         }
     }
 }
