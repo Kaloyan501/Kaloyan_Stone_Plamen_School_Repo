@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace SchoolExercies1
 {
-    internal class Exercise3
+    internal class Exercise_1_2
     {
-        public void exercise3() { 
-            
+        public void exercise1_2()
+        {
+
         }
     }
 }
