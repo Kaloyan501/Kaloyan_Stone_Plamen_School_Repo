@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\github_repos\\Kaloyan_Stone_Plamen_School_Repo\\SchoolExercies1\\",
+  "WorkspaceRootPath": "C:\\Users\\Student\\source\\repos\\Kaloyan_Stone_Plamen_School_Repo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C379291-A455-4985-8114-0D1C6CA0D1B1}|SchoolExercies1\\SchoolExercies1.csproj|c:\\github_repos\\kaloyan_stone_plamen_school_repo\\schoolexercies1\\schoolexercies1\\exercise3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C379291-A455-4985-8114-0D1C6CA0D1B1}|SchoolExercies1\\SchoolExercies1.csproj|c:\\users\\student\\source\\repos\\kaloyan_stone_plamen_school_repo\\schoolexercies1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C379291-A455-4985-8114-0D1C6CA0D1B1}|SchoolExercies1\\SchoolExercies1.csproj|solutionrelative:schoolexercies1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C379291-A455-4985-8114-0D1C6CA0D1B1}|SchoolExercies1\\SchoolExercies1.csproj|c:\\users\\student\\source\\repos\\kaloyan_stone_plamen_school_repo\\schoolexercies1\\exercise3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C379291-A455-4985-8114-0D1C6CA0D1B1}|SchoolExercies1\\SchoolExercies1.csproj|solutionrelative:schoolexercies1\\exercise3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C379291-A455-4985-8114-0D1C6CA0D1B1}|SchoolExercies1\\SchoolExercies1.csproj|c:\\github_repos\\kaloyan_stone_plamen_school_repo\\schoolexercies1\\schoolexercies1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C379291-A455-4985-8114-0D1C6CA0D1B1}|SchoolExercies1\\SchoolExercies1.csproj|solutionrelative:schoolexercies1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C379291-A455-4985-8114-0D1C6CA0D1B1}|SchoolExercies1\\SchoolExercies1.csproj|c:\\users\\student\\source\\repos\\kaloyan_stone_plamen_school_repo\\schoolexercies1\\exercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C379291-A455-4985-8114-0D1C6CA0D1B1}|SchoolExercies1\\SchoolExercies1.csproj|solutionrelative:schoolexercies1\\exercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C379291-A455-4985-8114-0D1C6CA0D1B1}|SchoolExercies1\\SchoolExercies1.csproj|c:\\users\\student\\source\\repos\\kaloyan_stone_plamen_school_repo\\schoolexercies1\\exercise_1_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C379291-A455-4985-8114-0D1C6CA0D1B1}|SchoolExercies1\\SchoolExercies1.csproj|solutionrelative:schoolexercies1\\exercise_1_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C379291-A455-4985-8114-0D1C6CA0D1B1}|SchoolExercies1\\SchoolExercies1.csproj|c:\\users\\student\\source\\repos\\kaloyan_stone_plamen_school_repo\\schoolexercies1\\exercise_1_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C379291-A455-4985-8114-0D1C6CA0D1B1}|SchoolExercies1\\SchoolExercies1.csproj|solutionrelative:schoolexercies1\\exercise_1_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 502,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +42,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Exercise_1_1.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Kaloyan_Stone_Plamen_School_Repo\\SchoolExercies1\\Exercise_1_1.cs",
+              "RelativeDocumentMoniker": "SchoolExercies1\\Exercise_1_1.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Kaloyan_Stone_Plamen_School_Repo\\SchoolExercies1\\Exercise_1_1.cs",
+              "RelativeToolTip": "SchoolExercies1\\Exercise_1_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:48:03.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exercise_1_2.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Kaloyan_Stone_Plamen_School_Repo\\SchoolExercies1\\Exercise_1_2.cs",
+              "RelativeDocumentMoniker": "SchoolExercies1\\Exercise_1_2.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Kaloyan_Stone_Plamen_School_Repo\\SchoolExercies1\\Exercise_1_2.cs",
+              "RelativeToolTip": "SchoolExercies1\\Exercise_1_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:48:16.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercise2.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Source\\Repos\\Kaloyan_Stone_Plamen_School_Repo\\SchoolExercies1\\Exercise2.cs",
+              "RelativeDocumentMoniker": "SchoolExercies1\\Exercise2.cs",
+              "ToolTip": "C:\\Users\\Student\\Source\\Repos\\Kaloyan_Stone_Plamen_School_Repo\\SchoolExercies1\\Exercise2.cs",
+              "RelativeToolTip": "SchoolExercies1\\Exercise2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:47:26.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Exercise3.cs",
-              "DocumentMoniker": "C:\\github_repos\\Kaloyan_Stone_Plamen_School_Repo\\SchoolExercies1\\SchoolExercies1\\Exercise3.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Kaloyan_Stone_Plamen_School_Repo\\SchoolExercies1\\Exercise3.cs",
               "RelativeDocumentMoniker": "SchoolExercies1\\Exercise3.cs",
-              "ToolTip": "C:\\github_repos\\Kaloyan_Stone_Plamen_School_Repo\\SchoolExercies1\\SchoolExercies1\\Exercise3.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Kaloyan_Stone_Plamen_School_Repo\\SchoolExercies1\\Exercise3.cs",
               "RelativeToolTip": "SchoolExercies1\\Exercise3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T08:41:23.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\github_repos\\Kaloyan_Stone_Plamen_School_Repo\\SchoolExercies1\\SchoolExercies1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Kaloyan_Stone_Plamen_School_Repo\\SchoolExercies1\\Program.cs",
               "RelativeDocumentMoniker": "SchoolExercies1\\Program.cs",
-              "ToolTip": "C:\\github_repos\\Kaloyan_Stone_Plamen_School_Repo\\SchoolExercies1\\SchoolExercies1\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Kaloyan_Stone_Plamen_School_Repo\\SchoolExercies1\\Program.cs",
               "RelativeToolTip": "SchoolExercies1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T08:32:42.949Z",
               "EditorCaption": ""
